@@ -1,0 +1,4 @@
+openai
+cv2
+Pillow
+scipy
