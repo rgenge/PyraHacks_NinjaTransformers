@@ -1,0 +1,1 @@
+This program takes user input for chemistry operations and then runs it through a LLM to figure out what the outcome would be and then creates an image to illustrate the reaction. This allows chemistry to be taught more effectively with more engaugement and makes it more fun. 
