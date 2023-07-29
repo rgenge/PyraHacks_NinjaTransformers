@@ -1,0 +1,1 @@
+This program generates a random middle school biology term with LLMs and then uses that to generate an image which the user has to name and then the closeness of that to the actual item is scored with an LLM. This is meant to accelerate the teaching of biology and gamify it to make it more fun.
