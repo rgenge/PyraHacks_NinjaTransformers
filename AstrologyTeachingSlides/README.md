@@ -1,0 +1,1 @@
+This program creates slides with a description and image on astrology with a randomizer to keep the content fresh using generative AI and a simple tkinter interface for ease of use. This program is meant to be thought provoking, aesthetically pleasing, and educational for astrological topics.
