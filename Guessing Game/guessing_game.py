@@ -12,7 +12,7 @@ def guessing_game():
   # Generate the game for easy mode
   if difficulty_level == 1:
     print(
-        "\n I have chosen a number between 1 and 50. You have 15 chances to guess the number.\n"
+        "\nI have chosen a number between 1 and 50. You have 15 chances to guess the number.\n"
     )
 
     # Generates a number that is between 1 and 50
