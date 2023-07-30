@@ -1,1 +1,1 @@
-This program allows you to create characters, monsters, or items from Dalle2 with a transparent background.
+This program allows you to create characters, monsters, or items from Dalle2 with a transparent background. This is useful for makers and people doing things like dnd where they want a character or need images for a video or some of kind of creative medium.
