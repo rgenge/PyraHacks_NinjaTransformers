@@ -1,0 +1,7 @@
+Pillow==9.5.0
+gTTS
+opencv-python
+easyocr
+PyAutoGUI
+openai
+pygame
