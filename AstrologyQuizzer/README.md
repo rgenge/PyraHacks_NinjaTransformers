@@ -1,0 +1,1 @@
+This program is a tkinter window that asks you astrology questions and tells you if you got them correct and the answers to the questions if you are wrong. The goal is for people to learn more about astrology and have an idea of how much astrology they know.
