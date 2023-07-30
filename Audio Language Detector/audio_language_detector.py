@@ -40,7 +40,7 @@ def record():
 #Allow user to record themselves and give option to recieve transcript or re-record
 while True:
     record()
-    keyPress2 = input("\nPress enter to record yourself again, enter 1 to get a transcript and emotional analysis of your recording, enter q to exit: ")
+    keyPress2 = input("\nPress enter to record yourself again, enter 1 to get a transcript and detect language of your recording, enter q to exit: ")
     if keyPress2 == "1":
         break
     if keyPress2 == "q":
