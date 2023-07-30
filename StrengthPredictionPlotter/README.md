@@ -1,0 +1,1 @@
+This program reads in exercise weight and reps and then plots it and then also gives you an estimate on what weight and reps you will be able to work with in 1 and 2 months. This is helpful for recording people's accomplishments as well as keeping them motivated by showing progress and giving goals for future lifts.
