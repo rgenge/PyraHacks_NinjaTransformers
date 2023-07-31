@@ -44,7 +44,7 @@ def guessing_game():
 
     if attempts1 == max_attempts1:
       print(
-          "\nSorry, you've reached the maximum number of attempts. The secret number was" + secret_number1 )
+          "\nSorry, you've reached the maximum number of attempts. The secret number was", secret_number1, "\n")
 
   # Generate the game for medium mode
   elif difficulty_level == 2:
@@ -82,7 +82,7 @@ def guessing_game():
 
     if attempts2 == max_attempts2:
       print(
-          "\nSorry, you've reached the maximum number of attempts. The secret number was {secret_number2}. "
+          "\nSorry, you've reached the maximum number of attempts. The secret number was",  secret_number2, "\n"
       )
 
   #generate the game for the hard mode
@@ -120,9 +120,7 @@ def guessing_game():
         break
 
     if attempts3 == max_attempts3:
-      print(
-          "\nSorry, you've reached the maximum number of attempts. The secret number was {secret_number3}."
-      )
+      print("\nSorry, you've reached the maximum number of attempts. The secret number was", secret_number3, "\n")
 
   else:
     print("\ninvalid input. Please enter a valid number")

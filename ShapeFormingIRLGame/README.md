@@ -1,0 +1,1 @@
+This is a game that requires you to fit into certain shapes and minimize the difference between your image mask and the image mask to form to, you see yourself and the target in a constantly updated window. The purpose for this is to develop motor controls, body co-ordination, body awareness, and to have fun.
